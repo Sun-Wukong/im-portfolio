@@ -1,0 +1,2 @@
+ProxyPassReverse "/ij-portfolio" "http://localhost:1313"
+
