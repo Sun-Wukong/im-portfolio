@@ -79,8 +79,7 @@ unsafe= true
             services = "SERVICES"
             skills   = "SKILLS"
             projects = [
-                { section = "video", label = "VIDEO" },
-                { section = "sound", label = "SOUND" }
+                { section = "projects", label = "PROJECTS" }
             ]
             contact  = "CONTACT"
 
@@ -90,7 +89,7 @@ unsafe= true
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "video", "sound" ]
+        categories = [ "projects" ]
 
         # Post orders:
         # - list of posts:
