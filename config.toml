@@ -42,7 +42,7 @@ unsafe= true
     # HOMEPAGE
     # Define the sections and the order in which they appear (MANDATORY)
     [params.homepage]
-        sections = [ "home", "projects", "contact", "about", "services", "skills" ]
+        sections = [ "home", "about", "services", "skills", "projects", "contact" ]
 
     # ----------
 
@@ -51,7 +51,7 @@ unsafe= true
     [params.navigation]
 
         # Brand (OPTIONAL - but required if want HOME button)
-        brand = "YOUR BRAND"
+        brand = "IJ Maksom"
 
         # NAVIGATION MENU ENTRIES (OPTIONAL)
         # Add an entry for each section to add in the navigation menu.
